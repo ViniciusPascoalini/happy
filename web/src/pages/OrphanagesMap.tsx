@@ -26,7 +26,10 @@ function OrphanagesMap() {
 
             </aside>
 
-            <div></div>
+            <Map
+                center = "@-20.5375776,-47.404319,15.21z"
+            />
+                
 
             <Link to="" className="create-orphanage">
                 <FiPlus size={32} color="#FFF" />
